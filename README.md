@@ -101,3 +101,4 @@ Klicka på uppgiften i canvas och ange länken till ditt repo.
 ### :boom: Success!
 
 Efter denna uppgift vet du hur man skapar ett projekt med vite, intallerar tailwind och använder tailwind-klasser.
+# chas_tailwind
